@@ -15,7 +15,7 @@
 本项目基于 Python 开发，核心依赖库如下：
 
 * `torch` (PyTorch)
-* `gymnasium` (替代原有 Gym 的新一代强化学习 API)
+* `gymnasium` 
 * `numpy`
 * `pandas`
 * `matplotlib`
@@ -29,4 +29,4 @@ conda install numpy pandas matplotlib gymnasium -c conda-forge -y
 ```
 
 <img width="400" height="400" alt="env_1_3d_terrain" src="https://github.com/user-attachments/assets/c3f85b1a-571f-49d0-893e-54f1ef22cf33" />
-<img width="400" height="400" alt="env_5_3d_terrain" src="https://github.com/user-attachments/assets/6ca0bce6-6d9e-4c86-8901-759b9a8c0488" />
+<img width="400" height="400" alt="env_5_3d_terrain" src="https://github.com/user-attachments/assets/6ca0bce6-6d9e-4c86-8901-759b9a8c0488" />  
