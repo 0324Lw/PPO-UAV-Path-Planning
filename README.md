@@ -30,4 +30,5 @@ conda install numpy pandas matplotlib gymnasium -c conda-forge -y
 
 <img width="400" height="400" alt="env_1_3d_terrain" src="https://github.com/user-attachments/assets/c3f85b1a-571f-49d0-893e-54f1ef22cf33" />
 <img width="400" height="400" alt="env_5_3d_terrain" src="https://github.com/user-attachments/assets/6ca0bce6-6d9e-4c86-8901-759b9a8c0488" />  
-![env_1_dynamic_obstacles](https://github.com/user-attachments/assets/8917157b-4593-45fe-b47b-0813c0b26927)
+
+![env_1_dynamic_obstacles](https://github.com/user-attachments/assets/5cd2d4be-82a2-4f57-95f0-2163e83b21c0)
